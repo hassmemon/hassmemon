@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about pie recipes, art history, useless paleontology facts
 
-👯 I’m looking for a team to work with
 📫 Reach out to me on my Linkedin: https://www.linkedin.com/in/hassaan-memon/
+
+👯 I’m looking for a team to work with
