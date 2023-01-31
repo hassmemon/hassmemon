@@ -6,5 +6,3 @@
 - 💬 Other than coding, we can also chat about art history, powerlifting, literature, skincare, and personal development  
 
 📫 Reach out to me on my Linkedin: https://www.linkedin.com/in/hassaan-memon/
-
-
